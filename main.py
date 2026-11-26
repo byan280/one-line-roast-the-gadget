@@ -1,13 +1,14 @@
 # One-Line Roast the Gadget You Use
 #
-# This entry prints exactly one fixed line to stdout.
-# The output never changes between runs: no input is read,
-# no randomness is used, and no arguments are required.
+# The roast targets the smartwatch, the gadget that praises
+# you for the bare minimum. Standing up is not an
+# achievement, and the applause it earns is the saddest
+# kind: automated, unearned, and delivered by something
+# you have to charge every night. That last detail is the
+# twist, because the machine judging you cannot even power
+# itself. Affectionate, not cruel: we all wear one.
+# The output stays fixed: one print, no input, no randomness,
+# so the result is identical on every machine and every run.
 # Run it with: python3 main.py
-#
-# The output is the entry itself: one roast of the gadget in use.
-# Nothing else is printed, and the process exits normally.
-# The line is kept byte-identical on purpose so the result
-# is reproducible on every machine and every run.
-# One fixed line on stdout: a roast of the gadget in use.
-print("My laptop's fan roars like a jet engine every time I open a second tab, as if thinking were a team effort it never signed up for.")
+# The watch means well. That is the worst part.
+print("My smartwatch congratulates me for standing up, which is the saddest applause I have ever received from a machine I charge every night.")
